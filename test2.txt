@@ -1,0 +1,18 @@
+#include <iostream>
+
+#include <iostream>
+#include <string>
+using namespace std; 
+
+int main() {
+    // Write C++ code here
+    string printMess;
+    string printMess2;
+    printMess = "kex";
+    printMess2 = "kex2";
+    std::cout << "Hello world!";
+    std::cout << printMess;
+    printf ("print: %s\n", printMess2);
+
+    return 0;
+}
